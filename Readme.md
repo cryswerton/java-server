@@ -1,5 +1,5 @@
 # A simple server written with pure Java.
-
+The goal of this project is to make a web server with as many features as possible with just Java. No libraries needed. This is just for learning purposes.
 #
 How to run it 🤔
 
