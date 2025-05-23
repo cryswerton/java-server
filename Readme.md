@@ -3,6 +3,8 @@
 #
 How to run it 🤔
 
+First, make sure you have Docker installed.
+
 ###
 Build the Docker image 🔨
 ```
